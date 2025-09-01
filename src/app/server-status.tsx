@@ -125,7 +125,7 @@ export default function ServerStatus() {
             <FiWifi className="w-6 h-6 text-yellow-500" />
             <div className="text-left">
               <div className="text-yellow-400 text-xs font-semibold">IP Address</div>
-              <div>play.stridesmp.xyz</div>
+              <div>play.minea.lol</div>
             </div>
           </div>
 
