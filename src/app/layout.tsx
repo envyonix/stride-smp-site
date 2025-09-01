@@ -4,8 +4,8 @@ import Footer from '@/components/footer';
 import DotGridBackground from '@/components/DotGridBackground';
 
 export const metadata = {
-  title: 'JavaPVP – Minecraft Server',
-  description: 'Join JavaPVP, a custom lifesteal Minecraft server!',
+  title: 'Minea – Minecraft Server',
+  description: 'Join Minea, a custom lifesteal Minecraft server!',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
