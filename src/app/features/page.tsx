@@ -56,7 +56,7 @@ const faqs = [
   {
     question: 'Can I play on both Java and Bedrock editions?',
     answer:
-      'Yes! JavaPVP supports crossplay, allowing players from Java and Bedrock to play together seamlessly.',
+      'Yes! Minea supports crossplay, allowing players from Java and Bedrock to play together seamlessly.',
   },
   {
     question: 'What happens when I lose all my hearts?',
@@ -89,7 +89,7 @@ export default function Features() {
       </h1>
 
       <p className="max-w-3xl mx-auto mb-12 text-center text-gray-300 leading-relaxed text-lg">
-        JavaPVP is a competitive Lifesteal Minecraft server built for serious PvPers and casual grinders alike. Every fight matters, every heart counts.
+        Minea is a competitive Lifesteal Minecraft server built for serious PvPers and casual grinders alike. Every fight matters, every heart counts.
       </p>
 
       {/* Features Grid */}
@@ -150,10 +150,10 @@ export default function Features() {
           Ready to join?
         </h2>
         <p className="text-gray-300 mb-6 max-w-xl mx-auto">
-          Connect to JavaPVP today and dive into the most intense Lifesteal PvP experience out there.
+          Connect to Minea today and dive into the most intense Lifesteal PvP experience out there.
         </p>
         <a
-          href="minecraft://play.javapvp.xyz"
+          href="minecraft://play.Minea.xyz"
           className="inline-block bg-yellow-500 hover:bg-yellow-600 transition text-white font-semibold px-8 py-3 rounded-lg"
         >
           Join Now
