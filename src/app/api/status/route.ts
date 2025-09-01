@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { status } from 'minecraft-server-util';
 
-const SERVER_HOST = 'play.stridesmp.xyz';
+const SERVER_HOST = 'play.minea.lol';
 const SERVER_PORT = 25565;
 
 export async function GET() {
